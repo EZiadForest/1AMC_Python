@@ -1,0 +1,118 @@
+Hygrogene	H	1	1	1.00794	Non-metaux	1|	1766	Henry Cavendish	Grande-Bretagne	1	0	#FF922E
+Helium	He	2	4	4.0026	Gaz rares	2|	1895	Jules Janssen, Joseph Norman Lockyer	Grande-Bretagne	1	17	#FF0000
+Lithium	Li	3	6,9	6.9412	Metaux alcalins	2|1	1817	Johan August Arfwedson	Suede	2	0	#3B7AB2
+Beryllium	Be	4	9	9.012182	Metaux alcalino-terreux	2|2	1798	Louis-Nicolas Vauquelin	France	2	1	#038C73
+Bore	B	5	10,8	10.811	Metalloides	2|3	1808	Louis Joseph Gay-Lussac, Louis Jacques ThǸnard, Humphry Davy	France et Grande-Bretagne	2	12	#FFD10F
+Carbone	C	6	12	12.0107	Non-metaux	2|4	1789 (mais connu depuis la prehistoire)	Lavoisier, Gaspard Monge, Claude Louis Berthollet	France	2	13	#FF922E
+Azote	N	7	14	14.00674	Non-metaux	2|5	1772	Daniel Rutherford	Ecosse	2	14	#FF922E
+Oxygene	O	8	16	15.9994	Non-metaux	2|6	1774	Carl Wilhelm Scheele, Joseph Priestley	Grande-Bretagne et Suede	2	15	#FF922E
+Fluor	F	9	19	18.9984	Halogenes	2|7	1886	Henri Moissan	France	2	16	#FF5319
+Neon	Ne	10	20,2	20.1797	Gaz rares	2|8	1898	Morris William Travers, William Ramsay	Grande-Bretagne	2	17	#FF0000
+Sodium	Na	11	23	22.9897	Metaux alcalins	2|8|1	1807	Humphry Davy	Grande-Bretagne	3	0	#3B7AB2
+Magnesium	Mg	12	24,3	24.3050	Metaux alcalino-terreux	2|8|2	1775	Joseph Black	Ecosse	3	1	#038C73
+Aluminium	Al	13	27	26.9815	Metaux pauvres	2|8|3	1827	Hans Christian Ersted	Danemark	3	12	#97ED8A
+Silicium	Si	14	28,1	28.0855	Metalloides	2|8|4	1824	Jons Jacob Berzelius	Suede	3	13	#FFD10F
+Phosphore	P	15	31	30.973761	Non-metaux	2|8|5	1669	Hennig Brandt	Allemagne	3	14	#FF922E
+Soufre	S	16	32,1	32.066	Non-metaux	2|8|6	Antiquite	xxx	xxx	3	15	#FF922E
+Chlore	Cl	17	35,5	35.453	Halogenes	2|8|7	1774	Carl Wilhelm Scheele	Suede	3	16	#FF5319
+Argon	Ar	18	39,9	39.948	Gaz rares	2|8|8	1894	William Ramsay, John William Strutt Rayleigh	xxx	3	17	#FF0000
+Potassium	K	19	39,1	39.0963	Metaux alcalins	2|8|8|1	1807	Humphry Davy	Grande-Bretagne	4	0	#3B7AB2
+Calcium	Ca	20	40,1	40.078	Metaux alcalino-terreux	2|8|8|2	1808	Humphry Davy	Grande-Bretagne	4	1	#038C73
+Scandium	Sc	21	45	44.9559	Metaux de transition	2|8|9|2	1879	Lars Fredrik Nilson	Suede	4	2	#22A86A
+Titane	Ti	22	47,9	47.867	Metaux de transition	2|8|10|2	1791	William Gregor	Grande-Bretagne	4	3	#22A86A
+Vanadium	V	23	50,9	50.9415	Metaux de transition	2|8|11|2	1901	Andres Manuel del Rio	Suede	4	4	#22A86A
+Chrome	Cr	24	52	51.9961	Metaux de transition	2|8|13|1	1797	Louis-Nicolas Vauquelin	France	4	5	#22A86A
+Manganese	Mn	25	54,9	54.9380	Metaux de transition	2|8|13|2	1774	Ignatius Gottfried Kaim, Johan Gottlieb Gahn	Suede	4	6	#22A86A
+Fer	Fe	26	55,8	55.8457	Metaux de transition	2|8|14|2	2 000 av. J.C.	xxx	Egypte, Mesopotamie	4	7	#22A86A
+Cobalt	Co	27	58,9	58.9332	Metaux de transition	2|8|15|2	1735	Georg Brandt	Suede	4	8	#22A86A
+Nickel	Ni	28	58,7	58.6934	Metaux de transition	2|8|16|2	1751	Axel Frederik Cronstedt	Suede	4	9	#22A86A
+Cuivre	Cu	29	63,5	63.546	Metaux de transition	2|8|18|1	Prehistoire	xxx	xxx	4	10	#22A86A
+Zinc	Zn	30	65,4	65.409	Metaux de transition	2|8|18|2	Antiquite	xxx	xxx	4	11	#22A86A
+Gallium	Ga	31	69,7	69.723	Metaux pauvres	2|8|18|3	1875	Paul-Emile Lecoq de Boisbaudran	France	4	12	#97ED8A
+Germanium	Ge	32	72,6	72.64	Metalloides	2|8|18|4	1886	Clemens Winkler	Allemagne	4	13	#FFD10F
+Arsenic	As	33	74,9	74.9216	Metalloides	2|8|18|5	~1250	Albert le Grand		4	14	#FFD10F
+Selenium	Se	34	79	78.96	Non-metaux	2|8|18|6	1817	Johan Gottlieb Gahn, Jons Jacob Berzelius	Suede	4	15	#FF922E
+Brome	Br	35	79,9	79.904	Halogenes	2|8|18|7	1826	Leopold Gmelin, Antoine-Jerome Balard	France	4	16	#FF5319
+Krypton	Kr	36	83,8	83.798	Gaz rares	2|8|18|8	1898	Morris William Travers, William Ramsay	Grande-Bretagne	4	17	#FF0000
+Rubidium	Rb	37	85,5	85.4678	Metaux alcalins	2|8|18|8|1	1861	Robert Bunsen, Gustav Kirchhoff	Allemagne	5	0	#3B7AB2
+Strontium	Sr	38	87,6	87.62	Metaux alcalino-terreux	2|8|18|8|2	1790	William Cruickshank	Ecosse	5	1	#038C73
+Yttrium	Y	39	88,9	88.9059	Metaux de transition	2|8|18|9|2	1794	Johan Gadolin	Finlande	5	2	#22A86A
+Zirconium	Zr	40	91,2	91.224	Metaux de transition	2|8|18|10|2	1789	Martin Heinrich Klaproth	Allemagne	5	3	#22A86A
+Niobium	Nb	41	92,9	92.9063	Metaux de transition	2|8|18|12|1	1801	Charles Hatchett	Grande-Bretagne	5	4	#22A86A
+Molbydene	Mo	42	95,9	95.94	Metaux de transition	2|8|18|13|1	1778	Carl Wilhelm Scheele	Suede	5	5	#22A86A
+Technetium	Tc	43	98	97.9072	Metaux de transition	2|8|18|13|2	1937	Emilio Segre, Carlo Perrier	Italie	5	6	#22A86A
+Ruthenium	Ru	44	101,1	101.07	Metaux de transition	2|8|18|15|1	1844	Karl Klaus	Russie	5	7	#22A86A
+Rhodium	Rh	45	102,9	102.9055	Metaux de transition	2|8|18|16|1	1803	William Hyde Wollaston	Grande-Bretagne	5	8	#22A86A
+Palladium	Pd	46	106,4	106.42	Metaux de transition	2|8|18|18	1803	William Hyde Wollaston	Grande-Bretagne	5	9	#22A86A
+Argent	Ag	47	107,9	107.8682	Metaux de transition	2|8|18|18|1	Prehistoire	xxx	xxx	5	10	#22A86A
+Cadmium	Cd	48	112,4	112.411	Metaux de transition	2|8|18|18|2	1817	Karl Samuel Leberecht Hermann, Friedrich Stromeyer	Allemagne	5	11	#22A86A
+Indium	In	49	114,8	114.818	Metaux pauvres	2|8|18|18|3	1863	xxx	Allemagne	5	12	#97ED8A
+Etain	Sn	50	118,7	118.710	Metaux pauvres	2|8|18|18|4	3 500 av. J.C.	xxx	xxx	5	13	#97ED8A
+Antimoine	Sb	51	121,8	121.760	Metalloides	2|8|18|18|5	Antiquite	xxx	xxx	5	14	#FFD10F
+Tellure	Te	52	127,6	127.60	Metalloides	2|8|18|18|6	1782	Franz Joseph Muller von Reichenstein	Transylvanie	5	15	#FFD10F
+Iode	I	53	126,9	126.9045	Halogenes	2|8|18|18|7	1811	Bernard Courtois	France	5	16	#FF5319
+Xenon	Xe	54	131,3	131.293	Gaz rares	2|8|18|18|8	1898	William Ramsay, Morris Travers	Grande-Bretagne	5	17	#FF0000
+Cesium	Cs	55	132,9	132.9054	Metaux alcalins	2|8|18|18|8|1	1860	Robert Bunsen, Gustav Kirchhoff	Allemagne	6	0	#3B7AB2
+Baryum	Ba	56	137,3	137.327	Metaux alcalino-terreux	2|8|18|18|8|2	1808	Carl Wilhelm Scheele	Grande-Bretagne	6	1	#038C73
+Lanthane	La	57	138,9	138.9055	Lanthanides	2|8|18|18|9|2	1839	Carl Gustaf Mosander	Suede	8	3	#CC4452
+Cerium	Ce	58	140,1	140.116	Lanthanides	2|8|18|19|9|2	1803	Jons Jacob Berzelius, Wilhelm Hisinger / Martin Heinrich Klaproth	Suede / Allemagne	8	4	#CC4453
+Praseodyme	Pr	59	140,9	140.9076	Lanthanides	2|8|18|21|8|2	1885	Carl Auer Von Welsbach	Autriche	8	5	#CC4454
+Neodyme	Nd	60	144,2	144.24	Lanthanides	2|8|18|22|8|2	1885	Carl Auer Von Welsbach	Autriche	8	6	#CC4455
+Promethium	Pm	61	145	144.9127	Lanthanides	2|8|18|23|8|2	1945	xxx	Etats-Unis	8	7	#CC4456
+Samarium	Sm	62	150,4	150.36	Lanthanides	2|8|18|24|8|2	1879	Paul-Emile Lecoq de Boisbaudran	France	8	8	#CC4457
+Europium	Eu	63	152	151.964	Lanthanides	2|8|18|25|8|2	1901	Eugene Anatole	France	8	9	#CC4458
+Gadolinium	Gd	64	157,3	157.25	Lanthanides	2|8|18|25|9|2	1880	Jean Charles Galissard de Marignac	Suisse	8	10	#CC4459
+Terbium	Tb	65	158,9	158.9253	Lanthanides	2|8|18|27|8|2	1843	Carl Gustaf Mosander	Suede	8	11	#CC4460
+Dysprosium	Dy	66	162,5	162.500	Lanthanides	2|8|18|28|8|2	1886	Francois Lecoq de Boisbaudran	France	8	12	#CC4461
+Holmium	Ho	67	164,9	164.9303	Lanthanides	2|8|18|29|8|2	1878	Per Teodor Cleve, Jacques-Louis Soret, Marc Delafontaine	Suede, Suisse	8	13	#CC4462
+Erbium	Er	68	167,3	167.259	Lanthanides	2|8|18|30|8|2	1843	Carl Gustaf Mosander	Suede	8	14	#CC4463
+Thulium	Tm	69	168,9	168.9342	Lanthanides	2|8|18|31|8|2	1879	Per Teodor Cleve 	Suede	8	15	#CC4464
+Ytterbium	Yb	70	173	173.04	Lanthanides	2|8|18|32|8|2	1878	Jean Charles Galissard de Marignac	Suisse	8	16	#CC4465
+Lutecium	Lu	71	175	174.967	Lanthanides	2|8|18|32|9|2	1907	Georges Urbain / Carl Auer Von Welsbach 	France / Allemagne	8	17	#CC4466
+Hafnium	Hf	72	178,5	178.49	Metaux de transition	2|8|18|32|10|2	1923	George de Hevesy, Dirk Coster	Danemark	6	3	#22A86A
+Tantale	Ta	73	180,9	180.9479	Metaux de transition	2|8|18|32|11|2	1802	Anders Ekeberg	Suede	6	4	#22A86A
+Tungstene	W	74	183,9	183.84	Metaux de transition	2|8|18|32|12|2	1783	Jose et Fausto Elhuyar	Espagne	6	5	#22A86A
+Rhenium	Re	75	186,2	186.207	Metaux de transition	2|8|18|32|13|2	1925	Walter Noddack, Ida Eva Tacke, Otto Berg	Allemagne	6	6	#22A86A
+Osmium	Os	76	190,2	190.23	Metaux de transition	2|8|18|32|14|2	1803	Smithson Tennant	Grande-Bretagne	6	7	#22A86A
+Iridium	Ir	77	192,2	192.217	Metaux de transition	2|8|18|32|15|2	1803	Smithson Tennant	Grande-Bretagne et France	6	8	#22A86A
+Platine	Pt	78	195,1	195.078	Metaux de transition	2|8|18|32|17|1	1735	Antonio de Ulloa	Italie	6	9	#22A86A
+Or	Au	79	197	166.9665	Metaux de transition	2|8|18|32|18|1	Prehistoire	xxx	xxx	6	10	#22A86A
+Mercure	Hg	80	200,6	200.59	Metaux de transition	2|8|18|32|18|2	Antiquite	xxx	Chine, Inde, Egypte	6	11	#22A86A
+Thallium	Tl	81	204,4	204.3833	Metaux pauvres	2|8|18|32|18|3	1861	William Crookes	Grande-Bretagne	6	12	#97ED8A
+Plomb	Pb	82	207,2	207.2	Metaux pauvres	2|8|18|32|18|4	Antiquite	xxx	xxx	6	13	#97ED8A
+Biismuth	Bi	83	209	208.9804	Metaux pauvres	2|8|18|32|18|5	1753	Jabir Ibn Hayyan	France	6	14	#97ED8A
+Polonium	Po	84	210	208.9824	Metalloides	2|8|18|32|18|6	1898	Marie Curie, Pierre Curie	France	6	15	#FFD10F
+Astate	At	85	218	209.9871	Halogenes	2|8|18|32|18|7	1940	Kenneth Ross McKenzie, Dale Corson, Emilio Segre	Etats-Unis	6	16	#FF5319
+Radon	Rn	86	222	210.9906	Gaz rares	2|8|18|32|18|8	1900	Friedrich Ernst Dorn	Allemagne	6	17	#FF0000
+Francium	Fr	87	223	223.0197	Metaux alcalins	2|8|18|32|18|8|1	1939	Marguerite Perey	France	7	0	#3B7AB2
+Radium	Ra	88	226	226.0254	Metaux alcalino-terreux	2|8|18|32|18|8|2	1898	Pierre Curie, Marie Curie	France	7	1	#038C73
+Actinium	Ac	89	227	227.0278	Actinides	2|8|18|32|18|9|2	1899	Andre Louis Debierne	France	9	3	#72315C
+Thorium	Th	90	232	232.0381	Actinides	2|8|18|32|18|10|2	1828	Jons Jacob Berzelius	Suede	9	4	#72315C
+Protactinium	Pa	91	231	231.0359	Actinides	2|8|18|32|20|9|2	1918	Otto Hahn, Lise Meitner / John Cranston	Allemagne / Grande-Bretagne	9	5	#72315C
+Uranium	U	92	238	238.02891	Actinides	2|8|18|32|21|9|2	1789	Martin Heinrich Klaproth	Allemagne	9	6	#72315C
+Neptunium	Np	93	237	237.0482	Actinides	2|8|18|32|22|9|2	1940	Edwin McMillan, Philip Abelson	Etats-Unis	9	7	#72315C
+Plutonium	Pu	94	244	244.0642	Actinides	2|8|18|32|24|8|2	1940	Arthur Wahl, Edwin McMillan, Glenn Theodore Seaborg, Joseph W. Kennedy	Etats-Unis	9	8	#72315C
+Americium	Am	95	243	243.0614	Actinides	2|8|18|32|25|8|2	1944	Albert Ghiorso, Glenn T. Seaborg, Leon Morgan, Ralph James	Etats-Unis	9	9	#72315C
+Curium	Cm	96	247	247.0703	Actinides	2|8|18|32|25|9|2	1944	Albert Ghiorso, Glenn T. Seaborg, Ralph James	Etats-Unis	9	10	#72315C
+Berkelium	Bk	97	247	247.0703	Actinides	2|8|18|32|27|8|2	1949	Stanley Thompson, Albert Ghiorso, Glenn T. Seaborg	Etats-Unis	9	11	#72315C
+Californium	Cf	98	251	251.0796	Actinides	2|8|18|32|28|8|2	1950	Albert Ghiorso, Glenn Theodore Seaborg	Etats-Unis	9	12	#72315C
+Einsteinium	Es	99	252	252.083	Actinides	2|8|18|32|29|8|2	1952	Albert Ghiorso	Etats-Unis	9	13	#72315C
+Fermium	Fm	100	257	257.0951	Actinides	2|8|18|32|30|8|2	1952	Albert Ghiorso	Etats-Unis	9	14	#72315C
+Mendelevium	Md	101	258	258.09857	Actinides	2|8|18|32|31|8|2	1955	xxx	Etats-Unis	9	15	#72315C
+Nobelium	No	102	259	259.1009	Actinides	2|8|18|32|32|8|2	1957	xxx	Suede et Etats-Unis	9	16	#72315C
+Lawrencium	Lr	103	260	262.1097	Actinides	2|8|18|32|32|8|3	1961	Albert Ghiorso	Etats-Unis	9	17	#72315C
+Rutherfordium	Rf	104	263	263.1125	Metaux de transition	2|8|18|32|32|10|2	1964	xxx	Russie et Etats-Unis	7	3	#22A86A
+Dubnium	Db	105	262	262.1144	Metaux de transition	2|8|18|32|32|11|2	1968	Georgi Nikolaievitch Flerow	Russie	7	4	#22A86A
+Seaborgium	Sg	106	266	266.1219	Metaux de transition	2|8|18|32|32|12|2	1974	xxx	Russie et Etats-Unis	7	5	#22A86A
+Bohrium	Bh	107	264	264.1247	Metaux de transition	2|8|18|32|32|13|2	1976	Yuri Oganessian	Russie	7	6	#22A86A
+Hassium	Hs	108	269	269.1341	Metaux de transition	2|8|18|32|32|14|2	1984	Peter Armbruster, Gottfried Muzenberg	Allemagne	7	7	#22A86A
+Meitnerium	Mt	109	268	268.1388	Metaux de transition	2|8|18|32|32|15|2	1982	Peter Armbruster, Gottfried Muzenberg	Allemagne	7	8	#22A86A
+Darmstadtium	Ds	110	269	[281]	Metaux de transition	2|8|18|32|32|17|1	1994	Sigurd Hofmann	Allemagne	7	9	#22A86A
+Roentgenium	Rg	111	272	[282]	Metaux de transition	2|8|18|32|32|18|1	1994	Sigurd Hofmann	Allemagne	7	10	#22A86A
+Copernicium	Cn	112	xxx	[285]	Metaux de transition	2|8|18|32|32|18|2	1996	xxx	Allemagne	7	11	#22A86A
+Nihonium	Nh	113	xxx	[286]	Indeterminee	2|8|18|32|32|18|3	2003	xxx	Russie et Etats-Unis	7	12	grey
+Flerovium	Fl	114	xxx	[289]	Indeterminee	2|8|18|32|32|18|4	1998	xxx	Russie	7	13	grey
+Moscovium	Mc	115	xxx	[289]	Indeterminee	2|8|18|32|32|18|5	2003	xxx	Russie et Etats-Unis	7	14	grey
+Livermorium	Lv	116	xxx	[293]	Indeterminee	2|8|18|32|32|18|6	2000	Yuri Tsolakovich	Russie	7	15	grey
+Tennessine	Ts	117	xxx	[294]	Indeterminee	2|8|18|32|32|18|7	2010	xxx	Russie	7	16	grey
+Oganesson	Og	118	xxx	[294]	Indeterminee	2|8|18|32|32|18|8	2002	xxx	Russie	7	17	grey
